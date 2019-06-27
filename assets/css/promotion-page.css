@@ -1,0 +1,42 @@
+.signin-message
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    background-color:#dff6f9;
+    min-height:690px;
+    max-height:auto;
+}
+.promotion-message
+{
+   font-size:40px;
+   color:#000000; 
+
+}
+.sign-button
+{
+    display:flex;
+    width:60%;
+    justify-content:space-around;
+}
+
+.sign-button button
+{
+    width:290px;
+
+}
+
+.sign-button button:hover
+{
+    cursor:pointer;
+    background-color:#483e3e;
+}
+
+.sign-button button a
+{
+    color:#fffdfd;
+    font-weight:bold;
+    text-decoration:none;
+    font-size:15px;
+}

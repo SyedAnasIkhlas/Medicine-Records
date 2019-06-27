@@ -1,0 +1,32 @@
+.form-area
+{
+    text-align:center;
+    border:1px solid #bbacac;
+    width:90%;
+    margin: 50px auto;
+    border-radius:5px;
+    padding-bottom:10px;
+     padding-top:2px;
+    height:auto;
+}
+
+.form-area .title
+{
+    font-size:20px;
+}
+
+form
+{
+    display:flex;
+    flex-direction:column;
+    flex:0;
+    align-items:center;
+   
+}
+
+form input, textarea
+{
+    width:80%;
+    margin-top:20px; 
+    font-family:Poppins;
+}

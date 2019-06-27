@@ -1,0 +1,23 @@
+table
+{
+    margin:0 auto;
+    margin-top:20px;
+    border:1px solid #eee;
+    width:80%;
+    border-radius:15px;
+}
+
+th
+{
+    border:1px solid #bfb7b7;
+    text-align:center;
+    background-color:#F3F3F3
+    
+}
+
+td
+{
+     border:1px solid #bfb7b7;
+     text-align:center;
+
+}
